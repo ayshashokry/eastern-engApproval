@@ -1,0 +1,431 @@
+[
+  {
+    "class": { "name": "مكتب هندسى ذو تخصص واحد فئة (ج)", "id": 3 },
+    "category": { "name": "الهندسة المعمارية ", "id": 2013 },
+    "approve": { "name": "إدارة المشاريع الهامة - تراخيص البناء", "id": 2071 },
+    "employees": [
+      {
+        "count": 1,
+        "name": "صاحب المكتب - مهندس معمارى",
+        "category": { "id": "2013", "name": "الهندسة المعمارية" },
+        "approveId": 2071,
+        "engineer": 1,
+        "surveyor": 0,
+        "id": 2051,
+        "mandatory": 1,
+        "UniqueId": 1,
+        "mainEmp": true
+      },
+      {
+        "count": 1,
+        "name": "رسام",
+        "category": { "id": null, "name": "الرسامين" },
+        "approveId": 2071,
+        "engineer": 0,
+        "surveyor": 0,
+        "id": 2033,
+        "mandatory": 1,
+        "UniqueId": 2,
+        "mainEmp": true
+      }
+    ]
+  },
+  {
+    "class": { "name": "مكتب هندسى ذو تخصص واحد فئة (ج)", "id": 3 },
+    "category": { "name": "الهندسة الإنشائية / المدنية", "id": 2011 },
+    "approve": { "name": "إدارةالمشاريع الهامة - تراخيص البناء", "id": 2071 },
+    "employees": [
+      {
+        "count": 1,
+        "name": "صاحب المكتب - مهندس مدنى",
+        "category": { "id": "2011", "name": "الهندسة الإنشائية / المدنية" },
+        "approveId": 2071,
+        "engineer": 1,
+        "surveyor": 0,
+        "id": 2052,
+        "mandatory": 1,
+        "UniqueId": 3,
+        "mainEmp": true
+      },
+      {
+        "count": 1,
+        "name": "رسام",
+        "category": { "id": null, "name": "الرسامين" },
+        "approveId": 2071,
+        "engineer": 0,
+        "surveyor": 0,
+        "id": 2033,
+        "mandatory": 1,
+        "UniqueId": 4,
+        "mainEmp": true
+      }
+    ]
+  },
+  {
+    "class": { "name": "مكتب هندسى ذو تخصص واحد فئة (ج)", "id": 3 },
+    "category": {
+      "name": "هندسة التخطيط الحضرى والإقليمى (تخطيط عمرانى - تخطيط مدن)",
+      "id": 2024,
+      "mandatory": 1
+    },
+    "approve": { "name": "إدارةالتخطيط", "id": 2072 },
+    "employees": [
+      {
+        "count": 1,
+        "name": "مهندس تخطيط",
+        "category": {
+          "id": "2024",
+          "name": "هندسة التخطيط الحضرى والإقليمى (تخطيط عمرانى - تخطيط مدن)"
+        },
+        "approveId": 2072,
+        "engineer": 1,
+        "surveyor": 0,
+        "id": 2057,
+        "mandatory": 1,
+        "UniqueId": 5,
+        "mainEmp": true
+      }
+    ]
+  },
+  {
+    "class": { "name": "مكتب هندسى استشارى ذو تخصص واحد فئة (ب)", "id": 4 },
+    "category": { "name": "الهندسة المعمارية", "id": 2013 },
+    "approve": { "name": "إدارةالمشاريع الهامة - تراخيص البناء", "id": 2071 },
+    "employees": [
+      {
+        "count": 1,
+        "name": "صاحب المكتب - مهندس معمارى",
+        "category": { "id": "2013", "name": "الهندسة المعمارية" },
+        "approveId": 2071,
+        "engineer": 1,
+        "surveyor": 0,
+        "id": 2051,
+        "mandatory": 1,
+        "UniqueId": 6,
+        "mainEmp": true
+      },
+      {
+        "count": 1,
+        "name": "مهندس معمارى",
+        "category": { "id": "2013", "name": "الهندسة المعمارية" },
+        "approveId": 2071,
+        "engineer": 1,
+        "surveyor": 0,
+        "id": 2054,
+        "mandatory": 1,
+        "UniqueId": 7,
+        "mainEmp": true
+      },
+      {
+        "count": 1,
+        "name": "رسام",
+        "category": { "id": null, "name": "الرسامين" },
+        "approveId": 2071,
+        "engineer": 0,
+        "surveyor": 0,
+        "id": 2033,
+        "mandatory": 1,
+        "UniqueId": 8,
+        "mainEmp": true
+      }
+    ]
+  },
+  {
+    "class": { "name": "مكتب هندسى استشارى ذو تخصص واحد فئة (ب)", "id": 4 },
+    "category": { "name": "الهندسة الإنشائية / المدنية", "id": 2011 },
+    "approve": { "name": "إدارةالمشاريع الهامة - تراخيص البناء", "id": 2071 },
+    "employees": [
+      {
+        "count": 1,
+        "name": "صاحب المكتب - مهندس مدنى",
+        "category": { "id": "2011", "name": "الهندسة الإنشائية / المدنية" },
+        "approveId": 2071,
+        "engineer": 1,
+        "surveyor": 0,
+        "id": 2052,
+        "mandatory": 1,
+        "UniqueId": 9,
+        "mainEmp": true
+      },
+      {
+        "count": 1,
+        "name": "مهندس مدنى",
+        "category": { "id": "2011", "name": "الهندسة الإنشائية / المدنية" },
+        "approveId": 2071,
+        "engineer": 1,
+        "surveyor": 0,
+        "id": 2055,
+        "mandatory": 1,
+        "UniqueId": 10,
+        "mainEmp": true
+      },
+      {
+        "count": 1,
+        "name": "رسام",
+        "category": { "id": null, "name": "الرسامين" },
+        "approveId": 2071,
+        "engineer": 0,
+        "surveyor": 0,
+        "id": 2033,
+        "mandatory": 1,
+        "UniqueId": 11,
+        "mainEmp": true
+      }
+    ]
+  },
+  {
+    "class": { "name": "مكتب هندسى استشارى ذو تخصص واحد فئة (ب)", "id": 4 },
+    "category": { "name": "الهندسة الكهربائية والتكييف للمشاريع", "id": 2015 },
+    "approve": { "name": "إدارةالمشاريع الهامة - تراخيص البناء", "id": 2071 },
+    "employees": [
+      {
+        "count": 1,
+        "name": "صاحب المكتب - مهندس كهربا",
+        "category": {
+          "id": "2015",
+          "name": "الهندسة الكهربائية والتكييف للمشاريع"
+        },
+        "approveId": 2071,
+        "engineer": 1,
+        "surveyor": 0,
+        "id": 2053,
+        "mandatory": 1,
+        "UniqueId": 12,
+        "mainEmp": true
+      },
+      {
+        "count": 1,
+        "name": "مهندس كهربا",
+        "category": {
+          "id": "2015",
+          "name": "الهندسة الكهربائية والتكييف للمشاريع"
+        },
+        "approveId": 2071,
+        "engineer": 1,
+        "surveyor": 0,
+        "id": 2056,
+        "mandatory": 1,
+        "UniqueId": 13,
+        "mainEmp": true
+      },
+      {
+        "count": 1,
+        "name": "رسام",
+        "category": { "id": null, "name": "الرسامين" },
+        "approveId": 2071,
+        "engineer": 0,
+        "surveyor": 0,
+        "id": 2033,
+        "mandatory": 1,
+        "UniqueId": 14,
+        "mainEmp": true
+      }
+    ]
+  },
+  {
+    "class": { "name": "مكتب هندسى استشارى ذو تخصص واحد فئة (ب)", "id": 4 },
+    "category": {
+      "name": "هندسة التخطيط الحضرى والإقليمى (تخطيط عمرانى - تخطيط مدن)",
+      "id": 2024
+    },
+    "approve": { "name": "إدارة التخطيط", "id": 2072 },
+    "employees": [
+      {
+        "count": 1,
+        "name": "مهندس تخطيط",
+        "category": {
+          "id": "2024",
+          "name": "هندسة التخطيط الحضرى والإقليمى (تخطيط عمرانى - تخطيط مدن)"
+        },
+        "approveId": 2072,
+        "engineer": 1,
+        "surveyor": 0,
+        "id": 2057,
+        "mandatory": 1,
+        "UniqueId": 15,
+        "mainEmp": true
+      }
+    ]
+  },
+  {
+    "class": { "name": "مكتب هندسى استشارى جميع التخصصات فئة (أ)", "id": 5 },
+    "category": { "name": "", "id": null },
+    "approve": { "name": "إدارةالمشاريع الهامة - تراخيص البناء", "id": 2071 },
+    "employees": [
+      {
+        "count": 1,
+        "name": "مهندس مدنى",
+        "category": { "id": "2011", "name": "الهندسة الإنشائية / المدنية" },
+        "approveId": 2071,
+        "engineer": 1,
+        "surveyor": 0,
+        "id": 2055,
+        "mandatory": 1,
+        "UniqueId": 16,
+        "mainEmp": true
+      },
+      {
+        "count": 1,
+        "name": "مهندس معمارى",
+        "category": { "id": "2013", "name": "الهندسة المعمارية" },
+        "approveId": 2071,
+        "engineer": 1,
+        "surveyor": 0,
+        "id": 2054,
+        "mandatory": 1,
+        "UniqueId": 17,
+        "mainEmp": true
+      },
+      {
+        "count": 1,
+        "name": "مهندس كهربا",
+        "category": {
+          "id": "2015",
+          "name": "الهندسة الكهربائية والتكييف للمشاريع"
+        },
+        "approveId": 2071,
+        "engineer": 1,
+        "surveyor": 0,
+        "id": 2056,
+        "mandatory": 1,
+        "UniqueId": 18,
+        "mainEmp": true
+      },
+      {
+        "count": 1,
+        "name": "رسام",
+        "category": { "id": null, "name": "الرسامين" },
+        "approveId": 2071,
+        "engineer": 0,
+        "surveyor": 0,
+        "id": 2033,
+        "mandatory": 1,
+        "UniqueId": 19,
+        "mainEmp": true
+      }
+    ]
+  },
+  {
+    "class": { "name": "مكتب هندسى استشارى جميع التخصصات فئة (أ)", "id": 5 },
+    "category": { "name": "", "id": null },
+    "approve": { "name": "إدارة التخطيط", "id": 2072 },
+    "employees": [
+      {
+        "count": 1,
+        "name": "مهندس تخطيط",
+        "category": {
+          "id": "2024",
+          "name": "هندسة التخطيط الحضرى والإقليمى (تخطيط عمرانى - تخطيط مدن"
+        },
+        "approveId": 2072,
+        "engineer": 1,
+        "surveyor": 0,
+        "id": 2057,
+        "mandatory": 1,
+        "UniqueId": 20,
+        "mainEmp": true
+      },
+      {
+        "count": 1,
+        "name": "مهندس تخطيط2",
+        "category": {
+          "id": "2024",
+          "name": "هندسة التخطيط الحضرى والإقليمى (تخطيط عمرانى - تخطيط مدن"
+        },
+        "approveId": 2072,
+        "engineer": 1,
+        "surveyor": 0,
+        "id": 2058,
+        "mandatory": 1,
+        "UniqueId": 21,
+        "mainEmp": true
+      }
+    ]
+  },
+  {
+    "class": { "name": "مكتب هندسى استشارى جميع التخصصات فئة (أ)", "id": 5 },
+    "category": { "name": "", "id": null },
+    "approve": { "name": "إدارة المساحة", "id": 228 },
+    "employees": [
+      {
+        "count": 1,
+        "name": "مهندس مساحة",
+        "category": { "id": "2025", "name": "الهندسة المساحية" },
+        "approveId": 228,
+        "engineer": 1,
+        "surveyor": 0,
+        "id": 2059,
+        "mandatory": 1,
+        "UniqueId": 22,
+        "mainEmp": true
+      },
+      {
+        "count": 2,
+        "name": "مساح",
+        "category": { "id": null, "name": "المساحين" },
+        "approveId": 228,
+        "engineer": 0,
+        "surveyor": 1,
+        "id": 2032,
+        "mandatory": 1,
+        "UniqueId": 23,
+        "mainEmp": true
+      },
+      {
+        "count": 2,
+        "name": "مساح",
+        "category": { "id": null, "name": "المساحين" },
+        "approveId": 228,
+        "engineer": 0,
+        "surveyor": 1,
+        "id": 2032,
+        "UniqueId": 24,
+        "mandatory": 1,
+        "mainEmp": true
+      }
+    ]
+  },
+  {
+    "class": { "name": "مكتب خدمات مساعدة (أعمال رفع مساحى)", "id": 2 },
+    "category": { "name": "الهندسة المساحية", "id": 2025 },
+    "approve": { "name": "إدارة المساحة", "id": 228 },
+    "employees": [
+      {
+        "count": 1,
+        "name": "مهندس مساحة",
+        "category": { "id": "2025", "name": "الهندسة المساحية" },
+        "approveId": 228,
+        "engineer": 1,
+        "surveyor": 0,
+        "id": 2059,
+        "mandatory": 1,
+        "UniqueId": 25,
+        "mainEmp": true
+      },
+      {
+        "count": 2,
+        "name": "مساح",
+        "category": { "id": null, "name": "المساحين" },
+        "approveId": 228,
+        "engineer": 0,
+        "surveyor": 1,
+        "id": 2032,
+        "mandatory": 1,
+        "UniqueId": 26,
+        "mainEmp": true
+      },
+      {
+        "count": 2,
+        "name": "مساح",
+        "category": { "id": null, "name": "المساحين" },
+        "approveId": 228,
+        "engineer": 0,
+        "surveyor": 1,
+        "id": 2032,
+        "UniqueId": 27,
+        "mandatory": 1,
+        "mainEmp": true
+      }
+    ]
+  }
+]

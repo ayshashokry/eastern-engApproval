@@ -1,0 +1,19 @@
+* {
+    word-break: break-word !important;
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  .ant-notification-notice {
+    padding: 20px 50px !important;
+    width: auto !important;
+    text-align: right;
+    background: #176d73 !important;
+    color: #fff;
+    font-size: 15px !important;
+    font-weight: bold !important;
+    z-index: 9999999999999 !important;
+    font-family: kufiRegular;
+  }
